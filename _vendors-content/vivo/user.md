@@ -7,7 +7,7 @@ manufacturer:
 
 ## Autostart
 
-Based on the information by Vivo, this option should be present on all Vivo phones.<br>
+Based on the information by Vivo, _vendors-content/vivo/user.mdthis option should be present on all Vivo phones.<br>
 Newer OS version: *Settings > More settings > Applications > Autostart* to turn on/off the app switch.<br>
 For Funtouch OS 2.6 and lower version: *i Manager > App manager > Autostart manager* to turn on/off the app switch.
 
